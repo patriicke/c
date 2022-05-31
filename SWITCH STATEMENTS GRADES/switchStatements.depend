@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643958092 source:c:\users\patrick\documents\c programming\menu\switchstatements\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645721708 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/MY STUFF/GITHUB/C-Programming/switchStatements/main.c
+	<stdio.h>
+	<stdlib.h>
+

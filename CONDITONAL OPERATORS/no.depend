@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1642681840 source:c:\users\patrick\documents\c programming\menu\no\main.c
+	<stdio.h>
+	<string.h>
+
+1644292060 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/MY STUFF/GITHUB/C-Programming/haveMoneytobuy/main.c
+	<stdio.h>
+	<stdlib.h>
+

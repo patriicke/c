@@ -1,0 +1,13 @@
+Write a c-program that accept n names from the user(keyboard) and store them in .txt file. the program should count the number of names that start with the same 4 characters and displays them to the console.
+For each group of names that start with the same characters according to specified requirements, the total number of names should be displayed before the list in the following format:
+Names that start with:
+XYZW: 4
+===========
+XYZWhsdhgd
+XYZWzeyzrrgfeefef
+XYZWtrzreyzrzryztr
+XYZWdgdsgdshdjsfsf
+ZWGR: 2
+===================
+ZWGRzdgezagdhgzgd
+ZWGRdffgegfefhefzf

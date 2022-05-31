@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647495780 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/GITLAB/C-Programming/NUMBER PALINDROME/main.c
+	<stdio.h>
+	<stdlib.h>
+

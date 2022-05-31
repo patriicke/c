@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642076378 source:c:\users\patrick\documents\c programming\operator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645722058 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/MY STUFF/GITHUB/C-Programming/Switch statement/main.c
+	<stdio.h>
+
+1648186842 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/GITLAB/C-Programming/SWITCH STATATEMENTS LANG BUG/main.c
+	<stdio.h>
+

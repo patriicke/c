@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643893325 source:c:\users\patrick\documents\c programming\menu\sum\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1644292060 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/MY STUFF/GITHUB/C-Programming/sum/main.c
+	<stdio.h>
+	<stdlib.h>
+

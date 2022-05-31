@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646380211 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/GITHUB/C-Programming/STIRING/USING puts AND gets TO GET names from keyboaard/main.c
+	<stdio.h>
+	<stdlib.h>
+

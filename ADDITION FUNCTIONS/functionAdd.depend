@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645708956 source:/home/patirck-ubuntu/Documents/functionAdd/main.c
+	<stdio.h>
+	<stdlib.h>
+

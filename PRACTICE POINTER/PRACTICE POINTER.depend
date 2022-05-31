@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646386342 source:/home/patirck-ubuntu/Desktop/NEW VOLUME/GITLAB/C-Programming/PRACTICE POINTER/main.c
+	<stdio.h>
+	<stdlib.h>
+
