@@ -1,0 +1,24 @@
+Entered name: ISHIMWE Emmanuel
+Entered name: NYABIHU
+Entered name: 1201233
+Entered name: M
+Entered name: 30000000.00
+Entered name: 18.000000
+Entered name: 3.000000
+
+
+Borrower basic information
+ ==================== 
+
+Name: ISHIMWE Emmanuel
+Adress: NYABIHU
+Date of birth: 1201233
+Gender: M
+
+
+Payment information
+
+ ===============
+
+ The monthly EMI is Rwf: 1084571.875000
+Total amount to be payed in 36.000000 months is Rwf 39044588.000000

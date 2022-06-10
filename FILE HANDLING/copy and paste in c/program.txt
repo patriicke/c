@@ -1,0 +1,22 @@
+Entered name: Patrick NDAYAMBAJE
+Entered address: NYABIHU
+Entered date: 2000/01/01
+Entered gender M
+Entered principle amount: 30000000.00
+Entered interest rate: 18.0
+Entered time: 3.0
+
+Borrower basic information
+=========================================
+
+  Name: Patrick NDAYAMBAJE
+  Address: NYABIHU
+  Date of birth: 2000/01/01
+  Gender : M
+
+
+Payment information
+=========================================
+
+Monthly EMI is Rwf 1084571.875
+Total amount to be payment in 36.0 months is RwF 39044588.000
